@@ -8,4 +8,4 @@ name = "rlibc"
 path = "src/lib.rs"
 
 [dependencies.core]
-git = "https://github.com/bharrisau/rust-libcore.git"
+git = "https://github.com/sondrele/rust-libcore.git"
