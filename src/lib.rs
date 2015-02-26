@@ -20,6 +20,8 @@
 //! necessary. It is an error to include this library when also linking with
 //! the system libc library.
 
+#![feature(no_std)]
+
 #![crate_name = "rlibc"]
 #![crate_type = "rlib"]
 
